@@ -1,2 +1,4 @@
-﻿  longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp
+﻿  grumpy-bookstore-owner.cpp
+d:\workspace\c++\algorithm\leetcode\leetcode\grumpy-bookstore-owner.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\c++\algorithm\leetcode\leetcode\grumpy-bookstore-owner.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
   LeetCode.vcxproj -> D:\Workspace\C++\Algorithm\LeetCode\Debug\LeetCode.exe

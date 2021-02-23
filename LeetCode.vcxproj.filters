@@ -468,6 +468,9 @@
     <ClCompile Include="toeplitz-matrix.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="grumpy-bookstore-owner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tree.h">
