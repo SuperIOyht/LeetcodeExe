@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rotate-matrix-lcci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="course-schedule-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="merge-intervals.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pascals-triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum-cost-for-tickets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sqrtx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="powx-n.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="min-stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-tree-level-order-traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="single-number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="continuous-subarray-sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse-nodes-in-k-group.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="counting-bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="longest-palindromic-substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum-window-substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="house-robber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="symmetric-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kids-with-the-greatest-number-of-candies.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="search-insert-position.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="two-sum-ii-input-array-is-sorted.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gray-code.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique-binary-search-trees-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="nim-game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kth-smallest-element-in-a-bst.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lowest-common-ancestor-of-a-binary-search-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="power-of-two.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="spiral-matrix-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="multiply-strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zui-xiao-qu-jian-by-leetcode-solution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="flatten-binary-tree-to-linked-list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="linked-list-cycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add-strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add-two-numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lru-cache.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="house-robber-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="same-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recover-binary-search-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shortest-path-in-a-grid-with-obstacles-elimination.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="restore-ip-addresses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort-characters-by-frequency.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="surrounded-regions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clone-graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="basic-calculator-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="loud-and-rich.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="valid-parentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="happy-number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="number-of-enclaves.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="flood-fill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="balanced-binary-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-gap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="positions-of-large-groups.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="convert-sorted-list-to-binary-search-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum-depth-of-binary-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24-game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise-and-of-numbers-range.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="increasing-subsequences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="letter-combinations-of-a-phone-number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reconstruct-itinerary----.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="robot-return-to-origin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prison-cells-after-n-days.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="keys-and-rooms.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="predict-the-winner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="biao-shi-shu-zhi-de-zi-fu-chuan-lcof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n-queens.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-tree-level-order-traversal-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="combination-sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="combination-sum-iii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="largest-divisible-subset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="word-search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-tree-inorder-traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sudoku-solver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="invert-binary-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="champagne-tower.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pattern-matching-lcci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="permutations-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sum-of-left-leaves.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="subsets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="convert-bst-to-greater-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-tree-cameras.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="path-sum-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matchsticks-to-square.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="populating-next-right-pointers-in-each-node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="populating-next-right-pointers-in-each-node-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-tree-postorder-traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shu-zu-zhong-de-ni-xu-dui-lcof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="insert-into-a-binary-search-tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UlBDOe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="two-sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="partition-to-k-equal-sum-subsets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="coin-change.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="target-sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reorder-list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="how-many-numbers-are-smaller-than-the-current-number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-tree-preorder-traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique-number-of-occurrences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="island-perimeter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="remove-k-digits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix-cells-in-distance-order.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="generate-parentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="count-complete-tree-nodes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="radix_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maximum-gap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lemonade-change.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dota2-senate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="group-anagrams.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="verifying-an-alien-dictionary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="word-pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="best-time-to-buy-and-sell-stock-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="best-time-to-buy-and-sell-stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="best-time-to-buy-and-sell-stock-with-transaction-fee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="min-cost-climbing-stairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary-tree-zigzag-level-order-traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="first-unique-character-in-a-string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="assign-cookies.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="largest-rectangle-in-histogram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isomorphic-strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial-zeros-lcci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add-to-array-form-of-integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="number-of-operations-to-make-network-connected.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="longest-continuous-increasing-subsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="regions-cut-by-slashes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="number-of-equivalent-domino-pairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="remove-max-number-of-edges-to-keep-graph-fully-traversable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find-pivot-index.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="path-with-minimum-effort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="swim-in-rising-water.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fair-candy-swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="longest-repeating-character-replacement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sliding-window-median.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find-median-from-data-stream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maximum-average-subarray-i.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="get-equal-substrings-within-budget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maximum-points-you-can-obtain-from-cards.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="non-decreasing-array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="longest-turbulent-subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="subarrays-with-k-different-integers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="permutation-in-string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kth-largest-element-in-a-stream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pascals-triangle-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find-all-numbers-disappeared-in-an-array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="max-consecutive-ones.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array-partition-i.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reshape-the-matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum-number-of-k-consecutive-bit-flips.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="max-consecutive-ones-iii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="degree-of-an-array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="toeplitz-matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="headfile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
