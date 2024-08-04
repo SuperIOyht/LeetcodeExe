@@ -41,9 +41,3 @@ public:
         return res;
     }
 };
-
-int main() {
-    Solution s;
-    vector<int> a = { 5,7,7,8,8,10 };
-    s.searchRange(a, 6);
-}
