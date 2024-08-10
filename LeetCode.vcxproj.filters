@@ -822,6 +822,15 @@
     <ClCompile Include="unique-paths-ii.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="minimum-path-sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique-binary-search-trees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="run.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tree.h">
