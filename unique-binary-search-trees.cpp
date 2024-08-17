@@ -15,7 +15,3 @@ public:
         return ls[n];
     }
 };
-int main() {
-    Solution s;
-    s.numTrees(3);
-}

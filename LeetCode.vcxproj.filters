@@ -831,6 +831,12 @@
     <ClCompile Include="run.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="rotate-list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="partition-list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tree.h">
