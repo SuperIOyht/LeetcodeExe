@@ -837,6 +837,12 @@
     <ClCompile Include="partition-list.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="insert-interval.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="permutation-sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tree.h">
