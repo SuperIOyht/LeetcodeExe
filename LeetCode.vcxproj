@@ -748,6 +748,7 @@
     <ClCompile Include="serialize-and-deserialize-binary-tree.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="set-matrix-zeroes.cpp" />
     <ClCompile Include="shan-chu-lian-biao-de-jie-dian-lcof.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
