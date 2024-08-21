@@ -11,13 +11,13 @@ public:
                 for (int i = 0; i < point; ++i) {
                     if (nums[i] > nums[point]) {
                         swap(nums[i], nums[point]);
+                        break;
                     }
                 }
             }
             else {
-
+                ++point;
             }
-            ++point;
         }
     }
 };

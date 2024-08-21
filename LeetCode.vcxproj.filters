@@ -846,6 +846,12 @@
     <ClCompile Include="set-matrix-zeroes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="sort-colors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="construct-binary-tree-from-inorder-and-postorder-traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tree.h">
