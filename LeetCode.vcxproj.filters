@@ -858,6 +858,18 @@
     <ClCompile Include="perfect-squares.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="word-break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maximum-product-subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="partition-equal-subset-sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rotate-array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tree.h">
