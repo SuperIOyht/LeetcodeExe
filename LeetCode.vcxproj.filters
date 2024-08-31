@@ -870,6 +870,12 @@
     <ClCompile Include="rotate-array.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="partition-labels.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort-list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tree.h">

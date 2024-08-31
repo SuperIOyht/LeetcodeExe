@@ -21,8 +21,3 @@ public:
 	}
 };
 
-int main() {
-	Solution s;
-	vector<int> temp({ 9, 9, 9, 9, 9, 9, 9, 9, 9, 9});
-	s.addToArrayForm(temp, 1);
-}
